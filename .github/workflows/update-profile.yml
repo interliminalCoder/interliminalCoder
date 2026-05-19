@@ -1,0 +1,44 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch recent activity
+        run: python3 src/fetch_activity.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch recent tracks (Last.fm)
+        run: python3 src/fetch_tidal.py
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "interliminalCoder"
+          git config user.email "feliyxngfeli@gmail.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Actualizar actividad reciente"
+            git push
+          fi
