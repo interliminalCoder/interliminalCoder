@@ -56,3 +56,19 @@ No se pudieron obtener las canciones.
 </p>
 
 ¡Gracias por pasarte por mi perfil! 🚀
+
+
+## Actividad Reciente
+
+<!-- ACTIVITY:start -->
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
+<!-- ACTIVITY:end -->
