@@ -18,13 +18,10 @@
 ### 🛠️ Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 
