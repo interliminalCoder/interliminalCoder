@@ -1,4 +1,1 @@
-## Hi there 👋
-
-![Metrics](/github-metrics.svg)
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+## ¡Hola! Mi nombre es Felipe <interliminalCoder>. Estoy estudiando la Licenciatura en Ciencias de la Computación en la Universidad Nacional de Río Cuarto (UNRC).
