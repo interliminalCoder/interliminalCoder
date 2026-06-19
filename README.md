@@ -69,6 +69,4 @@ No se pudieron obtener las canciones.
 - 📦 Push a `interliminalCoder/ultimate_packager` (sin commits)
 - 📁 Creó branch `master` en `interliminalCoder/ultimate_packager`
 - ⭐ Dio estrella a `bucanero/pkgi-ps3`
-- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
-- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
 <!-- ACTIVITY:end -->
