@@ -65,5 +65,4 @@ No se pudieron obtener las canciones.
 - 📦 Push a `interliminalCoder/Sovietalizer` (sin commits)
 - 📦 Push a `interliminalCoder/Sovietalizer` (sin commits)
 - 📁 Creó branch `main` en `interliminalCoder/Sovietalizer`
-- 📦 Push a `interliminalCoder/ultimate_packager` (sin commits)
 <!-- ACTIVITY:end -->
