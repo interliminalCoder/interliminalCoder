@@ -61,8 +61,5 @@ No se pudieron obtener las canciones.
 ## Actividad Reciente
 
 <!-- ACTIVITY:start -->
-- 📦 Push a `interliminalCoder/Sovietalizer` (sin commits)
-- 📦 Push a `interliminalCoder/Sovietalizer` (sin commits)
-- 📦 Push a `interliminalCoder/Sovietalizer` (sin commits)
-- 📁 Creó branch `main` en `interliminalCoder/Sovietalizer`
+No hay actividad reciente aún.
 <!-- ACTIVITY:end -->
