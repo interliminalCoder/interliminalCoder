@@ -62,8 +62,4 @@ No se pudieron obtener las canciones.
 
 <!-- ACTIVITY:start -->
 - ⭐ Dio estrella a `shutterbug2000/ABadAvatar`
-- 📦 Push a `interliminalCoder/xclusives` (sin commits)
-- 📦 Push a `interliminalCoder/xclusives` (sin commits)
-- 📦 Push a `interliminalCoder/xclusives` (sin commits)
-- 📦 Push a `interliminalCoder/xclusives` (sin commits)
 <!-- ACTIVITY:end -->
