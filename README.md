@@ -21,6 +21,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 
+---
+
 ### 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:feliyxngfeli@gmail.com)
@@ -31,9 +33,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=interliminalCoder&color=2F81F7&style=flat" alt="Visitas" />
 </p>
-
-¡Gracias por pasarte por mi perfil! 🚀
-
 
 ## Actividad Reciente
 
