@@ -1,9 +1,5 @@
 ## ¡Hola! 👋 Soy Felipe, alias **interliminalCoder**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&width=435&lines=Estudiante+de+Cs.+de+la+Computación;Entusiasta+de+la+tecnología;Aprendiendo+cada+día" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 Sobre mí
@@ -33,16 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=interliminalCoder&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=interliminalCoder&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
----
-
-### 🎵 Últimas canciones escuchadas
-
-<!-- TIDAL:start -->
-No se pudieron obtener las canciones.
-<!-- TIDAL:end -->
-
----
 
 ### 📫 Contacto
 
