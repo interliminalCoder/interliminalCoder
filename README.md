@@ -21,15 +21,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=interliminalCoder&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=interliminalCoder&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
 ### 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:feliyxngfeli@gmail.com)
