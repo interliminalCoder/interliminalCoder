@@ -37,10 +37,6 @@
 ## Actividad Reciente
 
 <!-- ACTIVITY:start -->
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 👤 MemberEvent en `MRSKYGUY06/HIERROVIEJO`
 - ⭐ Dio estrella a `ossu/computer-science`
 - 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
 - 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
