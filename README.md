@@ -44,7 +44,6 @@
 - 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
 - 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
 - 👤 MemberEvent en `MRSKYGUY06/HIERROVIEJO`
-- ⭐ Dio estrella a `ossu/computer-science`
 <!-- ACTIVITY:end -->
 
 
