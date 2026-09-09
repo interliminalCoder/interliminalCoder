@@ -37,13 +37,7 @@
 ## Actividad Reciente
 
 <!-- ACTIVITY:start -->
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 👤 MemberEvent en `MRSKYGUY06/HIERROVIEJO`
+No hay actividad reciente aún.
 <!-- ACTIVITY:end -->
 
 
