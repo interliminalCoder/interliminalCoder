@@ -38,6 +38,7 @@
 
 <!-- ACTIVITY:start -->
 - 📦 Push a `interliminalCoder/Modelator` (sin commits)
+- 📦 Push a `interliminalCoder/Modelator` (sin commits)
 - 📁 Creó branch `main` en `interliminalCoder/Modelator`
 <!-- ACTIVITY:end -->
 
