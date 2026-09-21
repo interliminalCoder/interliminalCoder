@@ -42,7 +42,6 @@
 - 📁 Creó branch `main` en `interliminalCoder/Modelator`
 - 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
 - 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
-- 📦 Push a `MRSKYGUY06/HIERROVIEJO` (sin commits)
 <!-- ACTIVITY:end -->
 
 
