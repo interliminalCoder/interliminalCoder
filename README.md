@@ -7,7 +7,7 @@
 - 🎓 Estudiando **Licenciatura en Ciencias de la Computación** en la **UNRC**
 - 🌱 Actualmente desarrollando pequeñas aplicaciones para ampliar conocimientos en programación y orquestación de IAs
 - 🎯 Interesado en **ciberseguridad** y **desarrollo de videojuegos**
-- 🐧 **Arch Linux** + **Hyprland** · **VS Code** con Opencode
+- 🐧 **Arch Linux** + **Omarchy** · **VS Code** con Opencode
 
 ---
 
