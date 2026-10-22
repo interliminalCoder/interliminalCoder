@@ -43,7 +43,6 @@
 - 📦 Push a `interliminalCoder/TP1-2026-NumerosRacionales-Grupete` (sin commits)
 - 📦 Push a `interliminalCoder/TP1-2026-NumerosRacionales-Grupete` (sin commits)
 - 📦 Push a `interliminalCoder/TP1-2026-NumerosRacionales-Grupete` (sin commits)
-- 📦 Push a `interliminalCoder/TP1-2026-NumerosRacionales-Grupete` (sin commits)
 <!-- ACTIVITY:end -->
 
 
