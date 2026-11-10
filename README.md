@@ -38,7 +38,6 @@
 
 <!-- ACTIVITY:start -->
 - 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
-- 📦 Push a `interliminalCoder/interliminalCoder` (sin commits)
 <!-- ACTIVITY:end -->
 
 
